@@ -1,0 +1,5 @@
+C:\Users\Huseyn\source\repos\EF-practice1\EF-practice1\obj\Debug\net6.0\EF-practice1.csproj.AssemblyReference.cache
+C:\Users\Huseyn\source\repos\EF-practice1\EF-practice1\obj\Debug\net6.0\EF-practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyn\source\repos\EF-practice1\EF-practice1\obj\Debug\net6.0\EF-practice1.AssemblyInfoInputs.cache
+C:\Users\Huseyn\source\repos\EF-practice1\EF-practice1\obj\Debug\net6.0\EF-practice1.AssemblyInfo.cs
+C:\Users\Huseyn\source\repos\EF-practice1\EF-practice1\obj\Debug\net6.0\EF-practice1.csproj.CoreCompileInputs.cache
